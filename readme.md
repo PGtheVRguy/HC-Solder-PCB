@@ -10,7 +10,7 @@ The board was designed in easyEDA (check src for the json file), and made with u
 
 PARTS:
 
-6 LEDs
+2 LEDs
 2 220ohm Resistor
 4.7k ohm Resistor
 Photoresistor

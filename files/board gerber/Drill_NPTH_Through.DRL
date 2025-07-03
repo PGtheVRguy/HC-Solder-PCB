@@ -3,8 +3,8 @@ METRIC,LZ,000.000
 ;FILE_FORMAT=3:3
 ;TYPE=NON_PLATED
 ;Layer: NPTH_Through
-;EasyEDA v6.5.50, 2025-05-10 15:04:30
-;589a746eefd949a0af088bb8152ad38e,9a905054fedc498b9ef7db2e0bce7d6d,10
+;EasyEDA v6.5.50, 2025-07-03 15:13:51
+;8d76fbbc2b194bbaa74efcbd6b1309bf,9a905054fedc498b9ef7db2e0bce7d6d,10
 ;Gerber Generator version 0.2
 ;Holesize 1 = 2.032 mm
 T01C2.032
